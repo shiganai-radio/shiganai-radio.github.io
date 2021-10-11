@@ -1,6 +1,6 @@
 ---
-audio_file_path: 
-date: 
+audio_file_path: https://feeds.soundcloud.com/stream/1139593186-user-194620696-sp98-mahpaprika.mp3
+date: Mon, 11 Oct 2021 00:16:26 +0000
 description: paprika-mahさんをゲストにお迎えして、地方SIer、AWSとre:Invent、社会人大学生、転職、などについて話しました。
 title: "sp.98【ゲスト: MahPaprika】地方SIer社員がAWS re:Inventで衝撃を受けて楽しいSREに転職した話"
 layout: episode
